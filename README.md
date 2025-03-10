@@ -49,11 +49,11 @@
 
 ---
 
-### 🔗 Liens utiles
+### 🔗 Liens de connection
 
-- [Portfolio](https://landrymanampisoa.netlify.app) (exemple)
-- [LinkedIn](https://linkedin.com/in/manampisoalandry) (exemple)
-- [Twitter](https://twitter.com/manampisoalandry) (exemple)
+- [Portfolio](https://landrymanampisoa.netlify.app)
+- [LinkedIn](https://linkedin.com/in/manampisoalandry)
+- [Twitter](https://twitter.com/manampisoalandry)
 
 ---
 
@@ -74,7 +74,7 @@ Ce profil est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idées, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-
+---
 
 ## 🌐 Me contacter  
 
@@ -86,4 +86,4 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idé
 
 ---
 
-Merci d'être passé sur mon profil ! 😄
+                                                                   Merci d'être passé sur mon profil ! 😄
