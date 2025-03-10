@@ -76,4 +76,4 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idé
 
 ---
 
-Merci d'être passé sur mon profil ! 😄    personnaliser un peu celle ci et ajouter une petite animation et des petites pingiun linux qui anime
+Merci d'être passé sur mon profil ! 😄 
