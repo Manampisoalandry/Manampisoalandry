@@ -29,9 +29,7 @@
 </p>
 
 ### | Réseaux
-<p align="center">
-  <img src="https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white"/> <img src="https://img.shields.io/badge/EVE--NG-0078D7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/> <img src="https://img.shields.io/badge/FortiGate-EE1D23?style=for-the-badge&logo=fortinet&logoColor=white"/> <img src="https://img.shields.io/badge/pfSense-222F5B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Routage-4682B4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Virtualisation-FF6F00?style=for-the-badge"/> </p>
 
 ### | Devops et Devsecops
 <p align="center">
