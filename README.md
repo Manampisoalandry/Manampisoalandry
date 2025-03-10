@@ -1,6 +1,11 @@
 # Bonjour, je suis Landry Manampisoa ! 👋
 
-### Développeur Full-Stack | Passionné par la Tech et l'Open Source
+
+### 🚀 Développeur Full-Stack | Administrateur Systèmes & Réseaux | DevOps | DevSecOps  
+
+💡 **Passionné par la Tech et l'Open Source** | 🔒 **Sécurité & Automatisation** | ☁️ **Cloud & Infrastructure** 
+
+
 
 - 🔭 Je travaille actuellement sur des projets personnels et open source.
 - 🌱 J'apprends actuellement **React**, **Node.js**, et **Python**.
