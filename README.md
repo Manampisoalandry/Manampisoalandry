@@ -1,79 +1,73 @@
-# Bonjour, je suis Landry Manampisoa ! 👋
+# Bonjour, je suis **Landry Manampisoa** ! 👋  
 
-### Développeur Full-Stack | Passionné par la Tech et l'Open Source
+### _Développeur Full-Stack | Passionné par la Tech et l'Open Source_  
 
-- 🔭 Je travaille actuellement sur des projets personnels et open source.
-- 🌱 J'apprends actuellement **React**, **Node.js**, et **Python**.
-- 👯 Je cherche à collaborer sur des projets innovants.
-- 💬 Posez-moi des questions sur **JavaScript**, **Python**, ou **Flask**.
-- 📫 Comment me contacter : [landry.manampisoa@gmail.com](mailto:landry.manampisoa@gmail.com).
-- 😄 Pronoms : il/lui.
-- ⚡ Fun fact : J'adore le café ☕ et les défis techniques.
+🌟 **Bienvenue sur mon profil GitHub !**  
+
+✨ **Créons des solutions innovantes ensemble !** ✨
 
 ---
 
-### 🛠️ Technologies et Outils
+## 🔭 À propos de moi
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🚀 Travaillant actuellement sur des projets **open source** passionnants.  
+- 🌱 En pleine maîtrise de **React**, **Node.js**, et **Python**.  
+- 🤝 Toujours partant pour collaborer sur des **projets innovants**.  
+- 💡 Posez-moi vos questions sur **JavaScript**, **Python**, ou **Flask**.  
+- ☕ Fan de **café** et de défis techniques 🎯.  
 
 ---
 
-### 📈 Statistiques GitHub
+## 🛠️ Mes Outils et Technologies
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Manampisoalandry&show_icons=true&theme=dark)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manampisoalandry&layout=compact&theme=dark)
-
----
-
-### 🏆 Trophées GitHub
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Manampisoalandry&theme=onedark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,git,vscode&theme=light" alt="Technologies" />
+</p>
 
 ---
 
-### 📊 Activité GitHub
+## 📊 Mes Statistiques
 
-![Graphique d'activité GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manampisoalandry&theme=github_dark)
-
----
-
-### 👀 Visiteurs du profil
-
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=Manampisoalandry.Manampisoalandry)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manampisoalandry&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manampisoalandry&layout=compact&theme=radical" alt="Langages Principaux" />
+</div>
 
 ---
 
-### 🔗 Liens utiles
+## 🏆 Trophées
 
-- [Portfolio](https://manampisoalandry.com) (exemple)
-- [LinkedIn](https://linkedin.com/in/manampisoalandry) (exemple)
-- [Twitter](https://twitter.com/manampisoalandry) (exemple)
-
----
-
-### 🎯 Projets récents
-
-- **[BellmanKalabaMinMax](https://github.com/Manampisoalandry/BellmanKalabaMinMax)** : Un projet de recherche opérationnelle utilisant React et Flask.
-- **[Autre Projet](https://github.com/Manampisoalandry/autre-projet)** : Description courte du projet.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manampisoalandry&theme=gruvbox" alt="Trophées GitHub" />
+</p>
 
 ---
 
-### 📄 Licence
+## 🎉 Derniers Projets
 
-Ce profil est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+- 🚀 **[BellmanKalabaMinMax](https://github.com/Manampisoalandry/BellmanKalabaMinMax)**  
+  *Un projet combinant recherche opérationnelle, React et Flask.*
 
----
-
-### 🙏 Contribution
-
-Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idées, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+- 🌟 **[Un autre projet](https://github.com/Manampisoalandry/autre-projet)**  
+  *Description brève de ce projet ici.*
 
 ---
 
-Merci d'être passé sur mon profil ! 😄 
+## 🌟 Animation Cool pour le Profil
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manampisoalandry/Manampisoalandry/master/animation.gif" alt="Animation personnalisée" />
+</p>
+
+---
+
+## 🌐 Me trouver ailleurs  
+
+- 🌍 **[Mon Portfolio](https://manampisoalandry.com)** (exemple).  
+- 💼 **[LinkedIn](https://linkedin.com/in/manampisoalandry)** (exemple).  
+- 🐦 **[Twitter](https://twitter.com/manampisoalandry)** (exemple).
+
+---
+
+<p align="center">
+  ✨ Merci de votre visite ! ✨  
