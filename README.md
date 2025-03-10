@@ -112,4 +112,4 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idé
 
 ---
 
-                                                                   Merci d'être passé sur mon profil ! 😄
+                              Merci d'être passé sur mon profil ! 😄
