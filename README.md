@@ -1,7 +1,7 @@
 # Bonjour, je suis Landry Manampisoa ! 👋
 
 
-### 🚀 Développeur Full-Stack | Administrateur Systèmes & Réseaux | DevOps | DevSecOps  
+### 🚀 Développeur Web | Administrateur Systèmes & Réseaux | DevOps | DevSecOps  
 
 💡 **Passionné par la Tech et l'Open Source** | 🔒 **Sécurité & Automatisation** | ☁️ **Cloud & Infrastructure** 
 
