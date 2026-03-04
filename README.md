@@ -1,12 +1,5 @@
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Landry%20Manampisoa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Web%20Developer%20%7C%20SysAdmin%20%26%20Networks%20%7C%20DevOps%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn"
-    alt="header"
-  />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Passionn%C3%A9+par+la+Tech+et+l%27Open+Source;Automatisation+%7C+S%C3%A9curit%C3%A9+%7C+Cloud+%7C+Infrastructure;React+%7C+Node.js+%7C+Python+%7C+Flask;Toujours+en+train+d%27apprendre%2C+construire+et+optimiser"
