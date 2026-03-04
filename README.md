@@ -1,29 +1,16 @@
-<!-- HEADER SVG ANIME -->
+<!-- HEADER ANIME -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Landry%20Manampisoa&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Landry%20Manampisoa&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;System+%26+Network+Administrator;Open+Source+Enthusiast;Automation+%26+Cloud+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;System+Administrator;Network+Engineer;Cloud+Infrastructure"/>
 </p>
 
 ---
 
-# 👋 Bonjour, je suis Landry Manampisoa
-
-🚀 **Administrateur Systèmes & Réseaux | DevOps | DevSecOps**
-
-Passionné par l’infrastructure, l’automatisation et la sécurité des systèmes.
-
-- 🔭 Travail sur projets personnels et open source
-- 🌱 Apprentissage continu : **React, Node.js, Python**
-- 👯 Collaboration sur projets technologiques
-- 💬 Domaines : **Infrastructure, DevOps, Python, JavaScript**
-- 📫 Contact : **landry.manampisoa@gmail.com**
-
----
-
-# ⚙️ DevOps & Infrastructure
+# DevOps & Infrastructure
 
 <p align="center">
 
@@ -33,7 +20,7 @@ Passionné par l’infrastructure, l’automatisation et la sécurité des syst�
 
 ---
 
-# 🌐 Réseaux & Sécurité
+# Réseaux & Sécurité
 
 <p align="center">
 
@@ -48,7 +35,7 @@ Passionné par l’infrastructure, l’automatisation et la sécurité des syst�
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -60,7 +47,7 @@ Passionné par l’infrastructure, l’automatisation et la sécurité des syst�
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -70,7 +57,7 @@ Passionné par l’infrastructure, l’automatisation et la sécurité des syst�
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -80,22 +67,18 @@ Passionné par l’infrastructure, l’automatisation et la sécurité des syst�
 
 ---
 
-# 🚀 Projets
+# Projets
 
 ### BellmanKalabaMinMax
-Projet de recherche opérationnelle utilisant **React + Flask**
+Projet utilisant React et Flask
 
-🔗 https://github.com/Manampisoalandry/BellmanKalabaMinMax
+https://github.com/Manampisoalandry/BellmanKalabaMinMax
 
 ---
 
-# 🌍 Liens
+# Contact
 
 <p align="center">
-
-<a href="https://landrymanampisoa.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-</a>
 
 <a href="https://linkedin.com/in/manampisoalandry">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -114,7 +97,5 @@ Projet de recherche opérationnelle utilisant **React + Flask**
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
 </p>
