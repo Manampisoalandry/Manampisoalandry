@@ -1,113 +1,120 @@
-# Bonjour, je suis Landry Manampisoa ! 👋
-
-
-### 🚀 Développeur Web | Administrateur Systèmes & Réseaux | DevOps | DevSecOps  
-
-💡 **Passionné par la Tech et l'Open Source** | 🔒 **Sécurité & Automatisation** | ☁️ **Cloud & Infrastructure** 
-
-
-
-- 🔭 Je travaille actuellement sur des projets personnels et open source.
-- 🌱 J'apprends actuellement **React**, **Node.js**, et **Python**.
-- 👯 Je cherche à collaborer sur des projets innovants.
-- 💬 Posez-moi des questions sur **JavaScript**, **Python**, ou **Flask**.
-- 📫 Comment me contacter : [landry.manampisoa@gmail.com](mailto:landry.manampisoa@gmail.com).
-- 😄 Pronoms : il/lui.
-- ⚡ Fun fact : J'adore le café ☕ et les défis techniques.
-
----
-## 🛠️ Technologies et Outils  
-### | Devoloppement
+<!-- HEADER SVG ANIME -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Landry%20Manampisoa&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-### | Réseaux
-<p align="center"> <img src="https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white"/> <img src="https://img.shields.io/badge/EVE--NG-0078D7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/> <img src="https://img.shields.io/badge/FortiGate-EE1D23?style=for-the-badge&logo=fortinet&logoColor=white"/> <img src="https://img.shields.io/badge/pfSense-222F5B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Routage-4682B4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Virtualisation-FF6F00?style=for-the-badge"/> </p>
-
-### | Devops et Devsecops
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;System+%26+Network+Administrator;Open+Source+Enthusiast;Automation+%26+Cloud+Infrastructure"/>
 </p>
 
+---
+
+# 👋 Bonjour, je suis Landry Manampisoa
+
+🚀 **Administrateur Systèmes & Réseaux | DevOps | DevSecOps**
+
+Passionné par l’infrastructure, l’automatisation et la sécurité des systèmes.
+
+- 🔭 Travail sur projets personnels et open source
+- 🌱 Apprentissage continu : **React, Node.js, Python**
+- 👯 Collaboration sur projets technologiques
+- 💬 Domaines : **Infrastructure, DevOps, Python, JavaScript**
+- 📫 Contact : **landry.manampisoa@gmail.com**
 
 ---
 
-### 📈 Statistiques GitHub
+# ⚙️ DevOps & Infrastructure
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Manampisoalandry&show_icons=true&theme=dark)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manampisoalandry&layout=compact&theme=dark)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins,github,gitlab,prometheus,grafana"/>
 
-### 🏆 Trophées GitHub
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Manampisoalandry&theme=onedark)
+</p>
 
 ---
 
-### 📊 Activité GitHub
+# 🌐 Réseaux & Sécurité
 
-![Graphique d'activité GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manampisoalandry&theme=github_dark)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EVE--NG-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn"/>
+<img src="https://img.shields.io/badge/FortiGate-EE1D23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pfSense-222F5B?style=for-the-badge"/>
 
-### 👀 Visiteurs du profil
-
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=Manampisoalandry.Manampisoalandry)
-
----
-
-### 🔗 Liens de connection
-
-- [Portfolio](https://landrymanampisoa.netlify.app)
-- [LinkedIn](https://linkedin.com/in/manampisoalandry)
-- [Twitter](https://twitter.com/manampisoalandry)
+</p>
 
 ---
 
-### 🎯 Projets récents
+# 📊 GitHub Analytics
 
-- **[BellmanKalabaMinMax](https://github.com/Manampisoalandry/BellmanKalabaMinMax)** : Un projet de recherche opérationnelle utilisant React et Flask.
-- **[Autre Projet](https://github.com/Manampisoalandry/autre-projet)** : Description courte du projet.
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manampisoalandry&show_icons=true&theme=tokyonight"/>
 
-### 📄 Licence
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manampisoalandry&layout=compact&theme=tokyonight"/>
 
-Ce profil est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-### 🙏 Contribution
-
-Les contributions sont les bienvenues ! Si vous avez des suggestions ou des idées, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+</p>
 
 ---
 
-## 🌐 Me contacter  
+# 🏆 GitHub Trophies
 
-<div> 
-  <a href="https://linkedin.com/in/Manampisoalandry" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/Manampisoalandry" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:landry.manampisoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>  
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manampisoalandry&theme=tokyonight&margin-w=15"/>
+
+</p>
 
 ---
 
-                              Merci d'être passé sur mon profil ! 😄
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manampisoalandry&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Projets
+
+### BellmanKalabaMinMax
+Projet de recherche opérationnelle utilisant **React + Flask**
+
+🔗 https://github.com/Manampisoalandry/BellmanKalabaMinMax
+
+---
+
+# 🌍 Liens
+
+<p align="center">
+
+<a href="https://landrymanampisoa.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/manampisoalandry">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/manampisoalandry">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:landry.manampisoa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</p>
