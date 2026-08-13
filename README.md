@@ -9,7 +9,7 @@
 
 # Bonjour, je suis Landry Manampisoa ! 👋
 
-### 🚀 Développeur Web | Administrateur Systèmes & Réseaux | DevOps | DevSecOps
+### 🚀 NetSysOps Admin | DevOps | DevSecOps | SOC Analyst L1
 
 💡 **Passionné par la Tech et l'Open Source**  
 🔒 **Sécurité & Automatisation**  
@@ -20,7 +20,7 @@
 - 👯 Je cherche à collaborer sur des projets innovants.
 - 💬 Posez-moi des questions sur **JavaScript**, **Python** ou **Flask**.
 - 📫 Comment me contacter : [landry.manampisoa@gmail.com](mailto:landry.manampisoa@gmail.com)
-- 😄 Pronoms : il/lui
+- 😄 Noms : MANAMPISOA
 - ⚡ Fun fact : J'adore le café ☕ et les défis techniques.
 
 ---
