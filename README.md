@@ -9,7 +9,7 @@
 
 # Bonjour, je suis Landry Manampisoa ! 👋
 
-### 🚀 Développeur Web | Administrateur Systèmes & Réseaux | DevOps | DevSecOps
+### 🚀 NetSysOps Admin | DevOps | DevSecOps | SOC Analyst L1
 
 💡 **Passionné par la Tech et l'Open Source**  
 🔒 **Sécurité & Automatisation**  
